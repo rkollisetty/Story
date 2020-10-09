@@ -1,0 +1,5 @@
+Secrets.txt
+.DS_Store
+*.exe
+
+# comments. If we put *.txt - it will skip all txt files
